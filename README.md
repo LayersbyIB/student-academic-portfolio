@@ -1,19 +1,24 @@
-# Academic Portfolio and Student Management Website
+# Student Academic Portfolio
 
-This is a multi-page static website built with HTML, CSS, and JavaScript.
+## Overview
+This project is a multi-page Student Academic Portfolio and Student Management website developed as part of the COS 106 course assesement. The website showcases a student's profile, skills, academic achievements, projects, and provides tools for managing academic activities.
 
-## Pages
+## Features
+- Student Profile
+- About Me
+- Projects
+- Academic Planner
+- Contact Page
+- Responsive Design
+- Interactive JavaScript Features
 
-- `index.html`: Homepage with student name, photograph placeholder, welcome message, navigation, biography, table, and audio.
-- `about.html`: Education, career aspirations, skills, hobbies, and interests.
-- `projects.html`: Three sample projects with descriptions, images, and links.
-- `planner.html`: Interactive academic task planner using JavaScript.
-- `contact.html`: Contact form with JavaScript validation.
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
-## Replace Placeholder Details
+## Live Website
+https://layersbyib.github.io/student-academic-portfolio/
 
-Update the placeholder name, email, phone number, school, profile image, and project links in the HTML files before final submission.
-
-## Hosting
-
-This folder can be uploaded directly to GitHub Pages, Netlify, Vercel, or any static hosting service. The entry page is `index.html`.
+## GitHub Repository
+https://github.com/LayersbyIB/student-academic-portfolio
