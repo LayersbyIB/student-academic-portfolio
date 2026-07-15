@@ -22,3 +22,6 @@ https://layersbyib.github.io/student-academic-portfolio/
 
 ## GitHub Repository
 https://github.com/LayersbyIB/student-academic-portfolio
+
+## Author
+Ifreke Akpakpan
