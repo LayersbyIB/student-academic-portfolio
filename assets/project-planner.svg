@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Planner dashboard mock screenshot">
+  <rect width="960" height="600" fill="#f7f4ee"/>
+  <rect x="70" y="70" width="820" height="460" rx="24" fill="#fff" stroke="#d9ded8" stroke-width="4"/>
+  <rect x="110" y="115" width="300" height="38" rx="8" fill="#176b87"/>
+  <rect x="110" y="196" width="740" height="66" rx="12" fill="#dfeee8"/>
+  <rect x="110" y="292" width="740" height="66" rx="12" fill="#f3e4d9"/>
+  <rect x="110" y="388" width="740" height="66" rx="12" fill="#dfeee8"/>
+  <circle cx="145" cy="229" r="14" fill="#176b87"/>
+  <circle cx="145" cy="325" r="14" fill="#d97745"/>
+  <circle cx="145" cy="421" r="14" fill="#176b87"/>
+  <rect x="185" y="218" width="375" height="18" rx="9" fill="#182027"/>
+  <rect x="185" y="314" width="480" height="18" rx="9" fill="#182027"/>
+  <rect x="185" y="410" width="310" height="18" rx="9" fill="#182027"/>
+</svg>

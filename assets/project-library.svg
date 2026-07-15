@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Library search mock screenshot">
+  <rect width="960" height="600" fill="#dfeee8"/>
+  <rect x="76" y="78" width="808" height="444" rx="22" fill="#fff" stroke="#d9ded8" stroke-width="4"/>
+  <rect x="130" y="128" width="610" height="54" rx="27" fill="#f7f4ee" stroke="#bfc8c3" stroke-width="3"/>
+  <circle cx="780" cy="155" r="27" fill="#176b87"/>
+  <path d="m772 148 16 16m0-16-16 16" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <rect x="130" y="232" width="190" height="216" rx="12" fill="#176b87"/>
+  <rect x="358" y="232" width="190" height="216" rx="12" fill="#d97745"/>
+  <rect x="586" y="232" width="190" height="216" rx="12" fill="#182027"/>
+  <rect x="154" y="265" width="142" height="18" rx="9" fill="#fff"/>
+  <rect x="382" y="265" width="142" height="18" rx="9" fill="#fff"/>
+  <rect x="610" y="265" width="142" height="18" rx="9" fill="#fff"/>
+  <rect x="154" y="330" width="92" height="16" rx="8" fill="#dfeee8"/>
+  <rect x="382" y="330" width="92" height="16" rx="8" fill="#f7f4ee"/>
+  <rect x="610" y="330" width="92" height="16" rx="8" fill="#dfeee8"/>
+</svg>

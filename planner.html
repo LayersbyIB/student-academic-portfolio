@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Academic Planner | Student Academic Portfolio</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/main.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="navbar" aria-label="Main navigation">
+      <a class="brand" href="index.html">Ifreke Akpakpan</a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-menu">Menu</button>
+      <ul class="nav-links" id="primary-menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a class="active" href="planner.html">Academic Planner</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-title">
+      <p class="eyebrow">Student Management</p>
+      <h1>Academic Planner</h1>
+      <p>Add, complete, and delete study tasks for classes, assignments, and deadlines.</p>
+    </section>
+
+    <section class="planner-shell" aria-labelledby="planner-title">
+      <div class="planner-header">
+        <div>
+          <h2 id="planner-title">My Tasks</h2>
+          <p id="task-summary">No tasks added yet.</p>
+        </div>
+      </div>
+
+      <form class="task-form" id="task-form">
+        <label for="task-input">Task description</label>
+        <div class="input-row">
+          <input id="task-input" type="text" placeholder="Example: Read Chapter 4 before Friday">
+          <button class="button primary" type="submit">Add Task</button>
+        </div>
+        <p class="form-message" id="task-message" aria-live="polite"></p>
+      </form>
+
+      <ul class="task-list" id="task-list" aria-live="polite"></ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Ifreke Akpakpan. Academic portfolio website.</p>
+  </footer>
+</body>
+</html>

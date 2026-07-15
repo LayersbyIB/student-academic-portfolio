@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Results dashboard mock screenshot">
+  <rect width="960" height="600" fill="#f3e4d9"/>
+  <rect x="72" y="72" width="816" height="456" rx="24" fill="#fff" stroke="#d9ded8" stroke-width="4"/>
+  <rect x="126" y="124" width="250" height="40" rx="8" fill="#182027"/>
+  <line x1="150" y1="442" x2="812" y2="442" stroke="#bfc8c3" stroke-width="4"/>
+  <line x1="150" y1="210" x2="150" y2="442" stroke="#bfc8c3" stroke-width="4"/>
+  <rect x="210" y="318" width="64" height="124" rx="8" fill="#176b87"/>
+  <rect x="330" y="275" width="64" height="167" rx="8" fill="#d97745"/>
+  <rect x="450" y="238" width="64" height="204" rx="8" fill="#176b87"/>
+  <rect x="570" y="292" width="64" height="150" rx="8" fill="#d97745"/>
+  <rect x="690" y="220" width="64" height="222" rx="8" fill="#176b87"/>
+  <polyline points="210,290 362,250 482,220 602,266 722,194" fill="none" stroke="#182027" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
